@@ -1,0 +1,1 @@
+worker: python easybot.py
